@@ -44,7 +44,7 @@ setup(
         ],
     },
     install_requires=[
-        'JPype1-py3',
+        'JPype1',
         'charade',
     ],
     author='sorpa\'as plat',
